@@ -1,3 +1,5 @@
+# cs267_hw01
+Group 44
 # HW1: Matrix Multiplication
 
 See https://sites.google.com/lbl.gov/cs267-spr2023/hw-1 for details on the assignment.
